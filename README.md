@@ -1,4 +1,8 @@
 # FastPhone
+
+https://user-images.githubusercontent.com/73114430/160243640-d7de6ee6-b3ef-4c0a-b24d-f60d6e4a3a0c.mp4
+
+
 Fastphone is a python/django-based consumer electronics shop
 To run this project in your computer, follow the steps below
 -------------------------------------------------------------
